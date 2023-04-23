@@ -1,0 +1,56 @@
+# Ignore everything in this directory
+target
+.classpath
+.settings
+.project
+*.iml
+*.iws
+*.ipr
+.idea
+.factorypath
+
+# Mac crap
+.DS_Store
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Android Studio
+.gradle
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+components/ui/io.entgra.proprietary.device.mgt.ui/react-app/node_modules/
+components/ui/io.entgra.proprietary.device.mgt.ui/react-app/dist/
+components/ui/io.entgra.proprietary.device.mgt.ui/react-app/tmp/
+
+components/ui/io.entgra.proprietary.application.mgt.publisher.ui/react-app/node_modules/
+components/ui/io.entgra.proprietary.application.mgt.publisher.ui/react-app/dist/
+components/ui/io.entgra.proprietary.application.mgt.publisher.ui/react-app/tmp/
+
+components/ui/io.entgra.proprietary.application.mgt.store.ui/react-app/node_modules/
+components/ui/io.entgra.proprietary.application.mgt.store.ui/react-app/dist/
+components/ui/io.entgra.proprietary.application.mgt.store.ui/react-app/tmp/
+
+components/ui/io.entgra.proprietary.self.register.ui/react-app/node_modules/
+components/ui/io.entgra.proprietary.self.register.ui/react-app/dist/
+components/ui/io.entgra.proprietary.self.register.ui/react-app/tmp/
+
+components/ui/io.entgra.proprietary.report.generator.ui/react-app/node_modules/
+components/ui/io.entgra.proprietary.report.generator.ui/react-app/dist/
+components/ui/io.entgra.proprietary.report.generator.ui/react-app/tmp/
+
+components/ui/io.entgra.proprietary.ios.web.agent.ui/react-app/node_modules/
+components/ui/io.entgra.proprietary.ios.web.agent.ui/react-app/dist/
+components/ui/io.entgra.proprietary.ios.web.agent.ui/react-app/tmp/
